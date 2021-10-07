@@ -21,3 +21,5 @@ An example of thie is : x++ or ++x
 
 An assignment operator assigns a value to its left operand based on the valus of its right operand. The asimple operator is equal (=) which assigns its valuse to the right operand to its left operand
 Basically x=y assigns the value of y to x
+There are also compound assignments that are shorthand for several other operations.
+
