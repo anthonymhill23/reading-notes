@@ -21,4 +21,4 @@ Improper<p>My cat is <strong>very grumpy.</p></strong>
 
 Ensuring its nested properly is what makes the distinction. 
 
-These are just a few things to take into context when learning HTML, these things are thigns I forget most of the time. So im passing my knowledge to you, Hopefully it helps :smile    
+These are just a few things to take into context when learning HTML, these things are thigns I forget most of the time. So im passing my knowledge to you, Hopefully it helps 
