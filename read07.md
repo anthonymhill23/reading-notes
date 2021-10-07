@@ -1,4 +1,4 @@
-# Programming wiht Javascript
+# Programming with Javascript
 
 Functions are one of the most important building blocks in Javascript. A function in javascript is similar to a procedure. A set of statments that perfprms a task or calculates a value.However for a procedure to qualify, it should take some imput and return an output to where there is some obvious relationship between the two. To use a a function, you must define it somwehre in the scope from which you wish to call it. 
 
