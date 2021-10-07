@@ -11,3 +11,9 @@ A function definition (also known as a functiondeclaration, or function statemen
 <li> A list of parameters to the function, enclosed in parentheses and seperated by commas   </li>
 <li> The Javascript statements that define the function,enclosed in curly brackets {     } </li>
 </ul>
+For example, the following code defines a simple function named square:
+
+> #### function square(number) {
+>  return number * number;
+> }
+...
