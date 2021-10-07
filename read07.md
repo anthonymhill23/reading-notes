@@ -17,3 +17,16 @@ For example, the following code defines a simple function named square:
 >  return number * number;
 > }
 ...
+
+## Javascript Functions
+
+A JavaScript function is a block of code designed to perform a particular task.
+A JavaScript function is executed when "something" invokes it (calls it).
+
+A Javascript function is defined with the function keyword followed by a name followed by parentheses ()
+Function names can contain letters , digits, underscores and dollar signs (same rules as variables)
+The parentheses ,ay include parameter names seperated by commas:
+(parameter1, parameter2, etc etc)
+Important thing to note, the code to be executed by the function is placed inside the curly brackets.
+
+Function parameters are listed INSIDE the parentheses () in the function department.
